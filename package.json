@@ -1,0 +1,20 @@
+{
+  "name": "changelog-commit-example",
+  "version": "1.0.0",
+  "description": "基于 普通 commit 解析的 Changelog 生成示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjq7/changelog-commit-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjq7/changelog-commit-example/issues"
+  },
+  "homepage": "https://github.com/xjq7/changelog-commit-example#readme"
+}
