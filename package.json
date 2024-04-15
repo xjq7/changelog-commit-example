@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xjq7/changelog-commit-example/issues"
   },
-  "homepage": "https://github.com/xjq7/changelog-commit-example#readme"
+  "homepage": "https://github.com/xjq7/changelog-commit-example#readme",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
 }
