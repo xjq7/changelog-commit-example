@@ -22,6 +22,7 @@
     "dayjs": "^1.11.10"
   },
   "devDependencies": {
+    "@eat-fish/changelog": "^1.0.0",
     "prettier": "^3.2.5"
   }
 }
