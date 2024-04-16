@@ -1,9 +1,9 @@
 module.exports = {
   matcher: (rawCommitInfo) => {
-    const { message, description: rawDescription } = rawCommitInfo;
+    const { message } = rawCommitInfo;
 
     const [, type, scope, description] =
-      message.match(/([^:]+)(?:\((.*?)\))?:\s?(.+)/) || [];
+      message.match(/(feat|fix|chore)(?:\((.*?)\))?:\s?(.+)/) || [];
 
     if (!type || !description) return false;
 

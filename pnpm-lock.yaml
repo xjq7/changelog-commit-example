@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@eat-fish/changelog': ^1.0.0
+  '@eat-fish/changelog': ^1.0.1
   classnames: ^2.5.1
   dayjs: ^1.11.10
   prettier: ^3.2.5
@@ -11,13 +11,13 @@ dependencies:
   dayjs: 1.11.10
 
 devDependencies:
-  '@eat-fish/changelog': 1.0.0
+  '@eat-fish/changelog': 1.0.1
   prettier: 3.2.5
 
 packages:
 
-  /@eat-fish/changelog/1.0.0:
-    resolution: {integrity: sha512-wCxNJbtSkcfDfsvbVHgtTZmow64w8JvDQ0UJlZ7nn0AUG6jTql7sM4sqY8bxOczMKm455oMnpb9o/vMOf1cIKw==}
+  /@eat-fish/changelog/1.0.1:
+    resolution: {integrity: sha512-/gu7NdPjVItEpg93dvL5OFOdTuJX474qvlKwakHOwfM7gY4FWyI6X+8OZk+gMiWzQskUFHs6JhEAjDAOCvuE0Q==}
     hasBin: true
     dependencies:
       commander: 12.0.0
