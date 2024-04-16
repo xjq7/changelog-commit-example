@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.0.2](https://github.com/xjq7/changelog-commit-example/compare/v1.0.1...v1.0.2)
+
+### 🐛 Bug Fix
+
+- [b707d49](https://github.com/xjq7/changelog-commit-example/commit/b707d49f03bbcec366ba467d7902888add164a18) 修复 xxx 功能 C @***xiajieqiong***
+
+### 🔧 Chore
+
+- [d95c832](https://github.com/xjq7/changelog-commit-example/commit/d95c8327445d71987f1a7bee8aa5035d45c5a2cc) 依赖变更 @***xiajieqiong***
+
+### 🛠️ Dependencies
+
+| devDependencies                           | dependencies                                                                                                    |
+| ----------------------------------------- | ----------------------------------------- |
+|prettier@<span style="color: green;">^3.2.5</span> -> prettier@<span style="color: red;">^3.2.4</span>|<span style="color: red;">-classnames@^2.5.1</span>|dayjs@<span style="color: green;">^1.11.10</span> -> dayjs@<span style="color: red;">^1.11.9</span>|
+
 ## [v1.0.1](https://github.com/xjq7/changelog-commit-example/compare/v1.0.0...v1.0.1)
 
 ### 🚀 Feature
