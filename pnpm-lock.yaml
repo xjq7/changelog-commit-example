@@ -2,12 +2,10 @@ lockfileVersion: 5.4
 
 specifiers:
   '@eat-fish/changelog': ^1.0.5
-  classnames: ^2.5.1
-  dayjs: ^1.11.10
-  prettier: ^3.2.5
+  dayjs: ^1.11.9
+  prettier: ^3.2.4
 
 dependencies:
-  classnames: 2.5.1
   dayjs: 1.11.10
 
 devDependencies:
@@ -27,10 +25,6 @@ packages:
       prettier: 2.8.8
       semver: 7.6.0
     dev: true
-
-  /classnames/2.5.1:
-    resolution: {integrity: sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==}
-    dev: false
 
   /commander/12.0.0:
     resolution: {integrity: sha512-MwVNWlYjDTtOjX5PiD7o5pK0UrFU/OYgcJfjjK4RaHZETNtjJqrZa9Y9ds88+A+f+d5lv+561eZ+yCKoS3gbAA==}

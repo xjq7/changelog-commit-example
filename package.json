@@ -18,11 +18,10 @@
   },
   "homepage": "https://github.com/xjq7/changelog-commit-example#readme",
   "dependencies": {
-    "classnames": "^2.5.1",
-    "dayjs": "^1.11.10"
+    "dayjs": "^1.11.9"
   },
   "devDependencies": {
     "@eat-fish/changelog": "^1.0.5",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.4"
   }
 }
